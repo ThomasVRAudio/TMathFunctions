@@ -52,6 +52,7 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 *.cs.meta
+*.unitypackage.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -59,7 +60,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
 *.app
 
 # Crashlytics generated file
